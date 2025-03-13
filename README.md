@@ -9,6 +9,6 @@ This is the AI engine for the 3 person based Othello game. It has some rule chan
 
 3.Choose wether to train it or not.
 
-##Note
+## Note
 
 If you choose to upload the model, it should be in the same folder.
