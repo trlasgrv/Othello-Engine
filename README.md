@@ -1,4 +1,4 @@
-# 3-Player Hex Othello AI: Training and Validation
+# 3-Player Othello AI: Training and Validation
 
 This project provides scripts to train a neural network for a 3-player Hex Othello game and to perform comparative validation of trained models against other AI algorithms.
 
